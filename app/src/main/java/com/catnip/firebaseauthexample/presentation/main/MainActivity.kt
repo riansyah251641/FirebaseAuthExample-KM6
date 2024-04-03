@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         showUserData()
         setClickListeners()
         observeData()
+//        throw ExceptionInInitializerError()
     }
 
     private fun setClickListeners() {
